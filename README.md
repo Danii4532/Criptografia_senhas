@@ -1,5 +1,5 @@
 # Criptografia_senhas
-Quer deixar suas senhas mais seguras, esse código é perfeito para isso, ele criptografa qualquer senha para vários formatos.<br>
+Se quer deixar suas senhas mais seguras, esse código é perfeito para isso, ele criptografa qualquer senha para vários formatos.<br>
 Por exemplo: SHA-256, SHA-224, SHA-512, Fernet, RSA(criptografia assimétrica) e AES(Advanced Encryption Standard).<br>
 Esse codigo usa tipos de criptografia usadas por grandes empresas para manter a segurança dos usuários.<br>
 Para usar é muito simples basta:<br>
