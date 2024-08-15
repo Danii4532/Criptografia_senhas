@@ -3,7 +3,6 @@ import tkinter
 from tkinter import messagebox
 from cryptography.fernet import Fernet
 import hashlib
-import rsa
 #criptografar para md5, hash, sha255, fernet
 from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 from cryptography.hazmat.backends import default_backend
