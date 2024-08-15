@@ -148,7 +148,7 @@ senha = tkinter.Entry(janela, width=40, font=('Calibri', 16))
 senha.place(x=160, y=50)
 
 #caixa para usuario escolher qual tipo de criptografia ele vai usar
-options = ['AES', 'SHA256', 'SHA512','SHA224' ,'FERNET', 'RSA']
+options = ['AES', 'SHA256', 'SHA512','SHA224' ,'FERNET']
 valor = tkinter.StringVar(janela)
 valor.set('Selecione')
 tipo_criptografia = tkinter.OptionMenu(janela, valor, *options)
